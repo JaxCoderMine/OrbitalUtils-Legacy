@@ -3,7 +3,7 @@ Used in crucial project named Chimera which is advanced protocol to monitor and 
 A collection of legacy Python scripts and utilities for orbital mechanics calculations, small satellite telemetry processing, and asteroid trajectory prediction. This project was developed by Jax Coder primarily for personal use and early prototype simulations during his tenure at various aerospace startups (prior to Orionis Mining Corp).
 
 
-**Repository: https://github.com/JaxCoderMine/OrbitalUtils-Legacy**
+**Repository: https://github.com/JaxCoderMine/**
 
 
 **Status: ARCHIVED / NO LONGER MAINTAINED.**
