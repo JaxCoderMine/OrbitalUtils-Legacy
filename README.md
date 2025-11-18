@@ -19,6 +19,8 @@ Scripts are primarily command-line driven. See individual file comments for spec
 ## License:
 
 MIT License - For educational and personal use only.
-All rights belongs to https://github.com/JaxCoderMine/.
 ---
 *Last Updated: 2039-01-15*
+
+
+<sub>contact github.com/JaxCoderMine</sub>
